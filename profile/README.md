@@ -1,12 +1,15 @@
-## Hi there 👋
+## Инструменты для студентов школы 21
 
-<!--
+Документация:
+- [s21docs](https://github.com/s21toolkit/s21docs) - Общий репозиторий документации
 
-**Here are some ideas to get you started:**
+Работа с платформой:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [s21docs](https://github.com/s21toolkit/s21docs) - Документация внутреннего API платформы
+- [s21client](https://github.com/s21toolkit/s21client) - Клиент для работы со внутренним API платформы на Go
+- [s21adapter](https://github.com/s21toolkit/s21adapter) - Контейнеризированный сервер-адаптер для работы со внутренним API платформы, обеспечивает возможность генерации спецификации Swagger и клиентов по ней
+  - [s21adapter-example](https://github.com/s21toolkit/s21adapter-example) - Пример сервиса, использующего s21adapter для генерации клиента и общения с платформой
+
+Внутренние инструменты:
+
+- [s21auto](https://github.com/s21toolkit/s21auto) - Многофункциональная утилита для разработки инструментов, в основном используется как генератор кода и документации.
