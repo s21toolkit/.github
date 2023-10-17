@@ -5,8 +5,11 @@
 
 Работа с платформой:
 
+- [s21cli](https://github.com/s21toolkit/s21cli) - Консольный интерфейс для работы с платформой
+
 - [s21docs](https://github.com/s21toolkit/s21docs) - Документация внутреннего API платформы
 - [s21client](https://github.com/s21toolkit/s21client) - Клиент для работы со внутренним API платформы на Go
+- [s21client-ts](https://github.com/s21toolkit/s21client-ts) - Клиент для работы со внутренним API платформы на Bun/TypeScript
 - [s21adapter](https://github.com/s21toolkit/s21adapter) - Контейнеризированный сервер-адаптер для работы со внутренним API платформы, обеспечивает возможность генерации спецификации Swagger и клиентов по ней
   - [s21adapter-example](https://github.com/s21toolkit/s21adapter-example) - Пример сервиса, использующего s21adapter для генерации клиента и общения с платформой
 
