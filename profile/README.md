@@ -14,7 +14,7 @@
 - [s21adapter](https://github.com/s21toolkit/s21adapter) - Контейнеризированный сервер-адаптер для работы со внутренним API платформы, обеспечивает возможность генерации спецификации Swagger и клиентов по ней
   - [s21adapter-example](https://github.com/s21toolkit/s21adapter-example) - Пример сервиса, использующего s21adapter для генерации клиента и общения с платформой
  
-> [!INFO]
+> [!TIP]
 > Запросы на обновление/добавление схем нужно заводить в ишью [s21schema](https://github.com/s21toolkit/s21docs).
 
 Внутренние инструменты:
@@ -22,7 +22,7 @@
 - [s21auto](https://github.com/s21toolkit/s21auto) - Многофункциональная утилита для разработки инструментов, в основном используется как генератор кода и документации.
 
 Юзерскипты:
-> [!WARNING]  
+> [!IMPORTANT]  
 > Необходим [Tampermonkey](https://www.tampermonkey.net) или любой другой совместимый скрипт мнеджер
 
 - [s21DisableDeadlineRedirect.user.js](https://gist.github.com/EnergoStalin/333d2167626fe96c500a7797103c69b8/raw/9bf3e264647ced988bef36c985b19ac6f32c9931/s21DisableDeadlineRedirect.user.js) - Обход заставки просроченного дедлайна
