@@ -15,7 +15,7 @@
   - [s21adapter-example](https://github.com/s21toolkit/s21adapter-example) - Пример сервиса, использующего s21adapter для генерации клиента и общения с платформой
  
 > [!TIP]
-> Запросы на обновление/добавление схем нужно заводить в ишью [s21schema](https://github.com/s21toolkit/s21docs).
+> Запросы на обновление/добавление схем нужно заводить в ишью [s21schema](https://github.com/s21toolkit/s21schema).
 
 Внутренние инструменты:
 
