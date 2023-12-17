@@ -1,4 +1,4 @@
-![image](https://github.com/s21toolkit/.github/assets/88397573/1de6e3d6-f158-41c3-9dd2-e9f4d6805336)## Инструменты для студентов школы 21
+## Инструменты для студентов школы 21
 
 Документация:
 - [s21docs](https://github.com/s21toolkit/s21docs) - Общий репозиторий документации
