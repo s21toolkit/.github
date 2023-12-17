@@ -1,4 +1,4 @@
-## Инструменты для студентов школы 21
+![image](https://github.com/s21toolkit/.github/assets/88397573/1de6e3d6-f158-41c3-9dd2-e9f4d6805336)## Инструменты для студентов школы 21
 
 Документация:
 - [s21docs](https://github.com/s21toolkit/s21docs) - Общий репозиторий документации
@@ -27,6 +27,7 @@
 
 - [s21DisableDeadlineRedirect.user.js](https://gist.github.com/EnergoStalin/333d2167626fe96c500a7797103c69b8/raw/9bf3e264647ced988bef36c985b19ac6f32c9931/s21DisableDeadlineRedirect.user.js) - Обход заставки просроченного дедлайна
 - [s21ReviewSlug.user.js](https://gist.github.com/EnergoStalin/87da333846b831083ed7bb96adcee01a/raw/5295f54eaebbbee33f4a7766161fcedec00cbb3d/s21ReviewSlug.user.js) - Кнопка для копирования информации о проверке в календаре
+- [s21gravatar.user.js](https://update.greasyfork.org/scripts/482418/s21gravatar.user.js) - Отображение граватаров со школьной почты
 
 - [S21 CulturedAvatars.user.js](https://greasyfork.org/scripts/458785-s21-culturedavatars/code/S21%20CulturedAvatars.user.js) - Замена пустых аватарок кошкожёнами
 - [S21 SaleBarRemover.user.js](https://greasyfork.org/scripts/457634-s21-salebarremover/code/S21%20SaleBarRemover.user.js) - Удаление полосок распродаж
