@@ -31,3 +31,4 @@
 
 - [S21 CulturedAvatars.user.js](https://greasyfork.org/scripts/458785-s21-culturedavatars/code/S21%20CulturedAvatars.user.js) - Замена пустых аватарок кошкожёнами
 - [S21 SaleBarRemover.user.js](https://greasyfork.org/scripts/457634-s21-salebarremover/code/S21%20SaleBarRemover.user.js) - Удаление полосок распродаж
+- [s21ParticlesRemover.user.js](https://gist.github.com/EnergoStalin/2ba9d4d4379a47303a06900f5bd42405/raw/s21ParticlesRemover.user.js) - Удаление партиклов(новогодних)
