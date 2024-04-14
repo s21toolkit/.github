@@ -3,6 +3,7 @@
 Прикладные программы:
 
 - [s21lint](https://github.com/s21toolkit/s21lint) - Статический анализатор для проверки кода на C/C++ на соответствие школьным требованиям
+  - [s21lint-vscode](https://github.com/s21toolkit/s21lint-vscode) - Интеграция s21lint в VSCode
 - [s21cli](https://github.com/s21toolkit/s21cli) - Консольный интерфейс для работы с платформой
 
 Браузерные скрипты:
