@@ -1,0 +1,8 @@
+{
+	"name": "Publish PNPM Package",
+	"description": "Publishes a pnpm package to the registry on version tags.",
+	"iconName": "octoicon package-dependents",
+	"filePatterns": [
+		"pnpm-lock.yaml$"
+	]
+}
