@@ -23,25 +23,22 @@
 - [s21introspector](https://github.com/s21toolkit/s21introspector) - Инструмент для интроспекции GQL API платформы
 - [s21auto](https://github.com/s21toolkit/s21auto) - Многофункциональный инструмент для вывода схем GQL API платформы из логов запросов, генерации клиентских библиотек и документации.
 
-#### Автогенерируемые библиотеки (в связке с s21auto)
+#### Библиотеки
 
-> [!WARNING]
-> Данные библиотеки и сервисы находятся в состоянии переосмысления и реуструктуризации. На данный момент они не готовы к использованию.
+- [s21auth](https://github.com/s21toolkit/s21auth) - Библиотека для авторизации/аутентификации на платформе на TS
+
+#### Автогенерируемые библиотеки (в связке с s21auto)
 
 > [!NOTE]
 > Данный набор инструментов создан для работы в связке с s21auto.
 > Они позволяют обходить запрет интроспекции и генерировать библиотеки на основе образцов коммуникации с платформой.
-> Если есть возможность использовать интроспекцию - лучше использовать (см. [s21introspector](https://github.com/s21toolkit/s21introspector)), а библиотеки оставить для авторизации.
+> Если есть возможность использовать интроспекцию - лучше использовать (см. [s21introspector](https://github.com/s21toolkit/s21introspector)).
 
-- [s21client](https://github.com/s21toolkit/s21client) - Клиент для работы со внутренним API платформы на Go
-- [s21client-ts](https://github.com/s21toolkit/s21client-ts) - Клиент для работы со внутренним API платформы на Bun/TypeScript
-- [s21adapter](https://github.com/s21toolkit/s21adapter) - Контейнеризированные сервис-адаптер для работы со внутренним API платформы, обеспечивает возможность генерации спецификации Swagger и клиентов по ней
-  - [s21adapter-example](https://github.com/s21toolkit/s21adapter-example) - Пример сервиса, использующего s21adapter для генерации клиента и общения с платформой
+- [s21auto-client-go](https://github.com/s21toolkit/s21auto-client-go) - Клиент для работы со внутренним API платформы на Go
+- [s21auto-client-ts](https://github.com/s21toolkit/s21auto-client-ts) - Клиент для работы со внутренним API платформы на TS
+- [s21auto-adapter](https://github.com/s21toolkit/s21auto-adapter) - Контейнеризированные сервис-адаптер для работы со внутренним API платформы, обеспечивает возможность генерации спецификации Swagger и клиентов по ней
 
 #### Организация
 
 - [s21schema](https://github.com/s21toolkit/s21schema) - Репозиторий для хранения и отслеживания схем API платформы
 - [s21docs](https://github.com/s21toolkit/s21docs) - Общий репозиторий документации
-
-> [!TIP]
-> Запросы на обновление/добавление схем для клиентских библиотек нужно заводить в ишью [s21schema](https://github.com/s21toolkit/s21schema).
