@@ -44,3 +44,4 @@
 
 - [s21schema](https://github.com/s21toolkit/s21schema) - Репозиторий для хранения и отслеживания схем API платформы
 - [s21docs](https://github.com/s21toolkit/s21docs) - Общий репозиторий документации
+- [s21shared](https://github.com/s21toolkit/s21shared) - Набор общих конфигураций и шаблонов для проектов s21toolkit, а так же CLI для их применения
