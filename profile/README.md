@@ -26,6 +26,8 @@
 #### Библиотеки
 
 - [s21auth](https://github.com/s21toolkit/s21auth) - Библиотека для авторизации/аутентификации на платформе на TS
+- [s21client](https://github.com/s21toolkit/s21client) - Клиент для работы со внутренним API платформы на TS
+  - [s21client-schema](https://github.com/s21toolkit/s21client-schema) - Автогенерируемые схемы для s21client
 
 #### Автогенерируемые библиотеки (в связке с s21auto)
 
